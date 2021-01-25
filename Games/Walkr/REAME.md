@@ -1,1 +1,4 @@
-Test pushing folder structure.
+---
+layout: page
+title: New Page
+---
